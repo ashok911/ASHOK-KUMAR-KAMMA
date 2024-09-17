@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-psd/striking-neon-campaign-policy-proposal-with-neon-infograph-neon-line-art-city-view-background_1020495-577984.jpg?w=1060">
 
-- 💬 **Ask me about:** SQL, Python, R, Power BI
+- 💬 **Ask me about** SQL, Python, R, Power BI,ML
 
 - 📫 **How to reach me:** ashokkumarkamma9@gmail.com
 
